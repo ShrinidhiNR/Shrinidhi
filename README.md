@@ -1,1 +1,1 @@
-# Shrinidhi
+# Placement training
